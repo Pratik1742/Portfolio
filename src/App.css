@@ -1,0 +1,31 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.portfolio-title {
+    font-size: 2.5rem;
+    color: #ff6200;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+.App-footer {
+    
+    width: 100%;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+    font-size: 0.9rem;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
